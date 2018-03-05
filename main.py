@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import ConfigParser
 import sys
@@ -22,7 +24,7 @@ Dictionary = loc_dir + dirvar + "Stichw.csv"
 cp.read(cfg)
 
 # Set timestamp for outfile
-ts = datetime.strftime(datetime.today(),"%d-%m-%Y--%H-%M-%S")
+tstamp = datetime.strftime(datetime.today(),"%d-%m-%Y--%H-%M-%S")
 
 # Check if Temp-Folder exists and if not, create the folder and exit (If there's no folder, there's also no file to be checked :-) )
 if not os.path.isdir(loc_dir + dirvar + "Temp"):
@@ -30,7 +32,6 @@ if not os.path.isdir(loc_dir + dirvar + "Temp"):
 	sys.exit(0)
 
 try:	
-	
 	# Walk through the Temp-Folder and get the filename
 	for root, dirs, files in os.walk(loc_dir + dirvar + "Temp"):
 		for file in files:
@@ -53,28 +54,25 @@ try:
 			del arrline[:]
 	
 	# Create the Destination-File in the Folder specified in Settings.cfg
-	nf = open(str(cp.get("Allgemein", "Ziel")) + divar + ts + ".txt", 'w')
+	nf = open(str(cp.get("Allgemein", "Ziel")) + divar + tstamp + ".txt", 'w')
 	nf.write(t)
 	nf.close()
 	
 	fax.close()
 	
 except:
-	
 	# If something's wrong, just copy the original File to the Destination Folder
 	try:
-		copyfile(t, str(cp.get("Allgemein", "Ziel")) + dirvar + ts + ".txt")
+		copyfile(t, str(cp.get("Allgemein", "Ziel")) + dirvar + tstamp + ".txt")
 	except:
 		pass
 	
 	pass
 
 try:
-	
 	# Delete the original File if possible
 	os.remove(root + dirvar + f)
 except:
 	pass
-	
-#sys.exit(0)
+
 
