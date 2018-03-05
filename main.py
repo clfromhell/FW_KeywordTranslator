@@ -11,9 +11,11 @@ cfg = loc_dir + "\\Settings.cfg"
 Dictionary = loc_dir + "\\Stichw.csv"
 
 cp.read(cfg)
-#print "Using Configfile: " + cfg
 
 ts = datetime.strftime(datetime.today(),"%d-%m-%Y--%H-%M-%S")
+
+if not os.path.isdir(loc_dir + "\\Temp"):
+	os.makedirs(loc_dir + "\\Temp")
 
 try:	
 	for root, dirs, files in os.walk(loc_dir + "\\Temp"):
@@ -31,7 +33,6 @@ try:
 			if arrline[0] in t:
 				ov = arrline[0]
 				nv = arrline[2]
-				#print ov + " -> " + nv
 				t = t.replace(ov, nv)
 				
 			del arrline[:]
