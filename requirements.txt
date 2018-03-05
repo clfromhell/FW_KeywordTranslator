@@ -1,0 +1,4 @@
+# Requirements for this Script:
+
+Install via PIP/easy_install:
+-> ConfigParser (any version)
