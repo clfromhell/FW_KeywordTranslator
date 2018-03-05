@@ -1,0 +1,311 @@
+SCHLAGWORT;UEBERSETZUNG
+#A1010#Geruch#undefinierbarer Geruch;undefinierbarer Geruch
+#A1011#Geruch#Geruch nach Ammoniak;Geruch nach Ammoniak
+#A1012#Geruch#Geruch nach Chlor;Geruch nach Chlor
+#A1013#Geruch#Geruch nach Erdgas / Gas;Geruch nach Erdgas / Gas
+#A1110#Gefahrstoff#auslaufender Kraftstoff (z.B. Benzin, Diesel);auslaufender Kraftstoff (z.B. Benzin, Diesel)
+#A1210#Gefahrstoff#verdächtiger Stoff;verdächtiger Stoff
+#A1211#Gefahrstoff#undefinierbare Flüssigkeit;undefinierbare Flüssigkeit
+#A1212#Gefahrstoff#undefinierbarer Gegenstand;undefinierbarer Gegenstand
+#A1213#Gefahrstoff#kleine Menge;kleine Menge
+#A1214#Gefahrstoff#Gasaustritt im Freien;Gasaustritt im Freien
+#A1215#Gefahrstoff#undefinierbares Pulver;undefinierbares Pulver
+#A1310#Gefahrstoff#große Menge;große Menge
+#A1311#Gefahrstoff#Gasaustritt brennbar;Gasaustritt brennbar
+#A1312#Gefahrstoff#Gasaustritt im Gebäude;Gasaustritt im Gebäude
+#A1410#Gefahrstoff#Brand Atom im Gebäude;Brand Atom im Gebäude
+#A1411#Gefahrstoff#Brand Atom im Freien;Brand Atom im Freien
+#A1412#Gefahrstoff#Brand Atom PKW / LKW;Brand Atom PKW / LKW
+#A1413#Gefahrstoff#Brand Atomkraftwerk (AKW);Brand Atomkraftwerk (AKW)
+#A1510#Gefahrstoff#Brand Tankstelle;Brand Tankstelle
+#A1511#Gefahrstoff#Brand Biogasanlage;Brand Biogasanlage
+#A1512#Gefahrstoff#Brand Raffinerie;Brand Raffinerie
+#A1513#Gefahrstoff#Brand Tanklager;Brand Tanklager
+#A1514#Gefahrstoff#Brand Tankwagen;Brand Tankwagen
+#A1610#Gefahrstoff#Brand Bio im Gebäude;Brand Bio im Gebäude
+#A1611#Gefahrstoff#Brand Bio im Freien;Brand Bio im Freien
+#A1612#Gefahrstoff#Brand Bio PKW / LKW;Brand Bio PKW / LKW
+#A1613#Gefahrstoff#Brand Chemie im Gebäude;Brand Chemie im Gebäude
+#A1614#Gefahrstoff#Brand Chemie im Freien;Brand Chemie im Freien
+#A1615#Gefahrstoff#Brand Chemie Zug;Brand Chemie Zug
+#A1616#Gefahrstoff#Brand Chemie LKW;Brand Chemie LKW
+#A1710#Gefahrstoff#THL Atom Austritt im Gebäude;THL Atom Austritt im Gebäude
+#A1711#Gefahrstoff#THL Atom Austritt im Freien;THL Atom Austritt im Freien
+#A1712#Gefahrstoff#THL Atom PKW / LKW;THL Atom PKW / LKW
+#A1713#Gefahrstoff#THL VU Atom PKW / LKW;THL VU Atom PKW / LKW
+#A1810#Gefahrstoff#THL Bio Austritt im Freien;THL Bio Austritt im Freien
+#A1811#Gefahrstoff#THL Bio PKW / LKW;THL Bio PKW / LKW
+#A1812#Gefahrstoff#THL Chemie Austritt im Gebäude;THL Chemie Austritt im Gebäude
+#A1813#Gefahrstoff#THL Chemie Austritt im Freien;THL Chemie Austritt im Freien
+#A1814#Gefahrstoff#THL Chemie PKW / LKW;THL Chemie PKW / LKW
+#A1815#Gefahrstoff#THL VU Bio PKW / LKW;THL VU Bio PKW / LKW
+#A1816#Gefahrstoff#THL VU Chemie PKW / LKW;THL VU Chemie PKW / LKW
+#A1817#Gefahrstoff#THL VU Chemie Zug;THL VU Chemie Zug
+#A1819#Gefahrstoff#THL Bio Austritt im Gebäude;THL Bio Austritt im Gebäude
+#A1910#Gefahrstoff#Explosion / Verpuffung;Explosion / Verpuffung
+#A2010#Gefahrstoff#Öl auf fließendem Gewässer;Öl auf fließendem Gewässer
+#A2011#Gefahrstoff#Öl auf stehendem Gewässer;Öl auf stehendem Gewässer
+#A2110#Gefahrstoff#undichter Heizöltank;undichter Heizöltank
+#A2111#Gefahrstoff#ausgedehnter Ölschaden;ausgedehnter Ölschaden
+#A2210#GMA#Meldeanlage Ammoniak;Meldeanlage Ammoniak
+#A2211#GMA#Meldeanlage Chlor;Meldeanlage Chlor
+#A2212#GMA#Meldeanlage Stickstoff;Meldeanlage Stickstoff
+#A2213#GMA#Meldeanlage CO2;Meldeanlage CO2
+#A2214#GMA#Meldeanlage Butan;Meldeanlage Butan
+#A2215#GMA#Meldeanlage Propan;Meldeanlage Propan
+#A2216#GMA#Meldeanlage undefiniert;Meldeanlage undefiniert
+#B1010#im Freien#Brandgeruch;Brand im Freien - Brandgeruch
+#B1011#im Freien#Rauchentwicklung;Brand im Freien - Rauchentwicklung
+#B1012#im Freien#Freifläche klein (< 100 m²);Brand im Freien - Freifläche klein (< 100 m²)
+#B1013#im Freien#Wald, klein (< 1.000 m²);Brand im Freien - Wald, klein (< 1.000 m²)
+#B1014#im Freien#Abfall-, Müll-, Papiercontainer;Brand im Freien - Abfall-, Müll-, Papiercontainer
+#B1015#im Freien#Am Gebäude;Brand im Freien - Am Gebäude
+#B1016#im Freien#Freifläche groß (> 100 m²);Brand im Freien - Freifläche groß (> 100 m²)
+#B1017#im Freien#Bahndamm;Brand im Freien - Bahndamm
+#B1018#im Freien#Bau-, Wohncontainer;Brand im Freien - Bau-, Wohncontainer
+#B1019#im Freien#Bau- / Wohncontainer (Person in Gefahr);Brand im Freien - Bau- / Wohncontainer (Person in Gefahr)
+#B1020#im Freien#Gartenhütte, Schuppen;Brand im Freien - Gartenhütte, Schuppen
+#B1021#im Freien#Gartenhütte / Schuppen (Person in Gefahr);Brand im Freien - Gartenhütte / Schuppen (Person in Gefahr)
+#B1022#im Freien#Person;Brand im Freien - Person
+#B1023#im Freien#Wald groß (> 1.000 m²);Brand im Freien - Wald groß (> 1.000 m²)
+#B1024#im Freien#Kleinbrand;Brand im Freien - Kleinbrand
+#B1025#im Freien#Bergwald;Brand im Freien - Bergwald
+#B1110#im Gebäude#Brandgeruch;Brand im Gebäude - Brandgeruch
+#B1111#im Gebäude#Dachstuhl;Brand im Gebäude - Dachstuhl
+#B1112#im Gebäude#Dachstuhl (Person in Gefahr);Brand im Gebäude - Dachstuhl (Person in Gefahr)
+#B1113#im Gebäude#Dehnfuge;Brand im Gebäude - Dehnfuge
+#B1114#im Gebäude#Garage;Brand im Gebäude - Garage
+#B1115#im Gebäude#Kamin;Brand im Gebäude - Kamin
+#B1116#im Gebäude#Keller;Brand im Gebäude - Keller
+#B1117#im Gebäude#Keller (Person in Gefahr);Brand im Gebäude - Keller (Person in Gefahr)
+#B1118#im Gebäude#Nachschau;Brand im Gebäude - Nachschau
+#B1119#im Gebäude#Rauchentwicklung;Brand im Gebäude - Rauchentwicklung
+#B1120#im Gebäude#Rauchentwicklung (Person in Gefahr);Brand im Gebäude - Rauchentwicklung (Person in Gefahr)
+#B1121#im Gebäude#Tiefgarage;Brand im Gebäude - Tiefgarage
+#B1122#im Gebäude#überhitzter Ofen / Ölofen;Brand im Gebäude - überhitzter Ofen / Ölofen
+#B1123#im Gebäude#Zimmer;Brand im Gebäude - Zimmer
+#B1124#im Gebäude#Zimmer (Person in Gefahr);Brand im Gebäude - Zimmer (Person in Gefahr)
+#B1125#im Gebäude#Berghütte;Brand im Gebäude - Berghütte
+#B1126#im Gebäude#Garage (Person in Gefahr);Brand im Gebäude - Garage (Person in Gefahr)
+#B1127#im Gebäude#ausgedehnt / hoch bis 6.OG;Brand im Gebäude - ausgedehnt / hoch bis 6.OG
+#B1210#Gebäude hohe Personenzahl#Pflege- / Altenheim;Brand Gebäude hohe Personenzahl - Pflege- / Altenheim
+#B1211#Gebäude hohe Personenzahl#Hochhaus ab 7. OG;Brand Gebäude hohe Personenzahl - Hochhaus ab 7. OG
+#B1212#Gebäude hohe Personenzahl#Hotel;Brand Gebäude hohe Personenzahl - Hotel
+#B1213#Gebäude hohe Personenzahl#Kaufhaus;Brand Gebäude hohe Personenzahl - Kaufhaus
+#B1214#Gebäude hohe Personenzahl#Supermarkt;Brand Gebäude hohe Personenzahl - Supermarkt
+#B1215#Gebäude hohe Personenzahl#Kindergarten;Brand Gebäude hohe Personenzahl - Kindergarten
+#B1216#Gebäude hohe Personenzahl#Kino;Brand Gebäude hohe Personenzahl - Kino
+#B1217#Gebäude hohe Personenzahl#Kirche;Brand Gebäude hohe Personenzahl - Kirche
+#B1218#Gebäude hohe Personenzahl#Krankenhaus;Brand Gebäude hohe Personenzahl - Krankenhaus
+#B1219#Gebäude hohe Personenzahl#Schule;Brand Gebäude hohe Personenzahl - Schule
+#B1220#Gebäude hohe Personenzahl#Theater;Brand Gebäude hohe Personenzahl - Theater
+#B1221#Gebäude hohe Personenzahl#Zirkus;Brand Gebäude hohe Personenzahl - Zirkus
+#B1222#Alarmstufenerhöhung#auf B5;Brand Alarmstufenerhöhung - auf B5
+#B1233#Gebäude hohe Personenzahl#Wohnheim;Brand Gebäude hohe Personenzahl - Wohnheim
+#B1234#Gebäude hohe Personenzahl#Behinderteneinrichtung;Brand Gebäude hohe Personenzahl - Behinderteneinrichtung
+#B1312#Gewerbe / Industrie#Elektroanlage / Trafo;Brand Gewerbe / Industrie - Elektroanlage / Trafo
+#B1313#Gewerbe / Industrie#Sägewerk / Schreinerei;Brand Gewerbe / Industrie - Sägewerk / Schreinerei
+#B1314#Gewerbe / Industrie#Industriegebäude;Brand Gewerbe / Industrie - Industriegebäude
+#B1315#Gewerbe / Industrie#Lagerhalle;Brand Gewerbe / Industrie - Lagerhalle
+#B1316#Gewerbe / Industrie#Silo (kein Gefahrstoff);Brand Gewerbe / Industrie - Silo (kein Gefahrstoff)
+#B1320#Gewerbe / Industrie#große Höhe - Turm;Brand Gewerbe / Industrie - große Höhe - Turm
+#B1321#Gewerbe / Industrie#große Höhe - Windrad;Brand Gewerbe / Industrie - große Höhe - Windrad
+#B1410#Landwirtschaft#Bauernhof;Brand Landwirtschaft - Bauernhof
+#B1412#Landwirtschaft#Stall / Scheune;Brand Landwirtschaft - Stall / Scheune
+#B1413#Landwirtschaft#Aussiedlerhof;Brand Landwirtschaft - Aussiedlerhof
+#B1414#Landwirtschaft#Fahrzeug / Maschine;Brand Landwirtschaft - Fahrzeug / Maschine
+#B1510#Verkehr#PKW;Brand Verkehr - PKW
+#B1511#Verkehr#PKW auf BAB;Brand Verkehr - PKW auf BAB
+#B1512#Verkehr#PKW (Person in Gefahr);Brand Verkehr - PKW (Person in Gefahr)
+#B1513#Verkehr#PKW auf BAB (Person in Gefahr);Brand Verkehr - PKW auf BAB (Person in Gefahr)
+#B1514#Verkehr#Motorrad;Brand Verkehr - Motorrad
+#B1515#Verkehr#LKW / Bus innerorts;Brand Verkehr - LKW / Bus innerorts
+#B1516#Verkehr#LKW / Bus auf BAB;Brand Verkehr - LKW / Bus auf BAB
+#B1517#Verkehr#LKW (Person in Gefahr);Brand Verkehr - LKW (Person in Gefahr)
+#B1518#Verkehr#LKW auf BAB (Person in Gefahr);Brand Verkehr - LKW auf BAB (Person in Gefahr)
+#B1519#Verkehr#LKW / Bus außerorts;Brand Verkehr - LKW / Bus außerorts
+#B1520#Verkehr#Boot / Yacht / Floß;Brand Verkehr - Boot / Yacht / Floß
+#B1521#Verkehr#Passagierschiff;Brand Verkehr - Passagierschiff
+#B1522#Verkehr#Frachtschiff;Brand Verkehr - Frachtschiff
+#B1523#Alarmstufenerhöhung#auf B2;Brand Alarmstufenerhöhung - auf B2
+#B1524#Alarmstufenerhöhung#auf B 3 Person;Brand Alarmstufenerhöhung - auf B 3 Person
+#B1525#Alarmstufenerhöhung#auf B4;Brand Alarmstufenerhöhung - auf B4
+#B1526#Alarmstufenerhöhung#auf B6;Brand Alarmstufenerhöhung - auf B6
+#B1527#Alarmstufenerhöhung#auf B3;Brand Alarmstufenerhöhung - auf B3
+#B1528#im Gebäude#überhitzter Heustock;Brand im Gebäude - überhitzter Heustock
+#B1529#Verkehr#S-Bahn im Tunnel;Brand Verkehr - S-Bahn im Tunnel
+#B1530#Verkehr#Personenzug;Brand Verkehr - Personenzug
+#B1531#Verkehr#Güterzug;Brand Verkehr - Güterzug
+#B1532#Verkehr#Zug nur Lokomotive;Brand Verkehr - Zug nur Lokomotive
+#B1533#Verkehr#Tunnel;Brand Verkehr - Tunnel
+#B1534#Alarmstufenerhöhung#auf B7;Brand Alarmstufenerhöhung - auf B7
+#B1535#Verkehr#Zug im Tunnel;Brand Verkehr - Zug im Tunnel
+#B1536#Alarmstufenerhöhung#auf B8;Brand Alarmstufenerhöhung - auf B8
+#B1537#Verkehr#Straßenbahn;Brand Verkehr - Straßenbahn
+#B1538#Verkehr#U-Bahn im Freien;Brand Verkehr - U-Bahn im Freien
+#B1539#Verkehr#S-Bahn im Freien;Brand Verkehr - S-Bahn im Freien
+#B1540#Verkehr#U-Bahn im Tunnel;Brand Verkehr - U-Bahn im Tunnel
+#B1599#Alarmstufenerhöhung#auf B 2 Person;Brand Alarmstufenerhöhung - auf B 2 Person
+#B1710#Meldeanlage#Brandmeldeanlage;Brand Meldeanlage - Brandmeldeanlage
+#B1713#Meldeanlage#Rauchwarnmelder über Hausnotruf;Brand Meldeanlage - Rauchwarnmelder über Hausnotruf
+#B1715#Meldeanlage#Rauchwarnmelder;Brand Meldeanlage - Rauchwarnmelder
+#I0110#Ausfall#Ausfall - Fahrzeugdefekt;Ausfall - Fahrzeugdefekt
+#I0111#Ausfall#Ausfall - Gerätedefekt;Ausfall - Gerätedefekt
+#I0112#Ausfall#Ausfall - Eigenunfall;Ausfall - Eigenunfall
+#I0120#Ausfall#Ausfall - Planungsfehler;Ausfall - Planungsfehler
+#I0121#Ausfall#Ausfall - Personalausfall RD-Personal;Ausfall - Personalausfall RD-Personal
+#I0122#Ausfall#Ausfall - Personalverschulden;Ausfall - Personalverschulden
+#I0130#Ausfall#Ausfall - Personalausfall Arzt;Ausfall - Personalausfall Arzt
+#I0140#Ausfall#Ausfall - Witterung;Ausfall - Witterung
+#I0150#Ausfall#Ausfall - Desinfektion;Ausfall - Desinfektion
+#I1001#BMA#Abnahme BMA;Abnahme BMA
+#I1201#Auskunft#Apothekenauskunft;Apothekenauskunft
+#I1301#BMA#BMA Probe;BMA Probe
+#I1302#BMA#BMA Störung;BMA Störung
+#I1401#Benachrichtigung#Eigenunfall;Eigenunfall
+#I1501#INF#Giftnotruf;Giftnotruf
+#I1601#Benachrichtigung#Hochwassermeldung;Hochwassermeldung
+#I1701#Auskunft#Vermittlung KVB-Arzt;Vermittlung KVB-Arzt
+#I1801#Sonstiges#Luftbeobachtung;Luftbeobachtung
+#I1901#Sonstiges#Öffentlichkeitsarbeit;Öffentlichkeitsarbeit
+#I2001#Sonstiges#Probealarm;Probealarm
+#I2101#Sonstiges#Sanitätsdienst;Sanitätsdienst
+#I2201#Sonstiges#Sicherheitswache;Sicherheitswache
+#I2301#Benachrichtigung#Unwetterwarnung;Unwetterwarnung
+#I2401#Sonstiges#Verkehrssicherung;Verkehrssicherung
+#I2501#Sonstiges#Wachbesetzung;Wachbesetzung
+#I2601#Auskunft#Zahnarztnotdienst;Zahnarztnotdienst
+#I9001#Info#An-Abmeldung von Geräten;An-Abmeldung von Geräten
+#I9002#Info#Hilfeleistungskontingent Hochwasser / Sandsäcke;Hilfeleistungskontingent Hochwasser / Sandsäcke
+#I9003#Info#Hilfeleistungskontingent Standard;Hilfeleistungskontingent Standard
+#I9004#Info#Jodtablettenverteilung - KFall;Jodtablettenverteilung - KFall
+#I9005#Info#Notarzt Dienstanmeldung;Notarzt Dienstanmeldung
+#I9006#Info#Notrufmißbrauch;Notrufmißbrauch
+#I9007#Info#Polizei Anfrage;Polizei Anfrage
+#I9008#Info#Sonstige Anfrage;Sonstige Anfrage
+#I9009#Info#Stickstoffverdampfer;Stickstoffverdampfer
+#I9010#Info#Übung;Übung
+#I9011#Info#Auftragsnummer;Auftragsnummer
+#I9012#Info#Behörde/Zweckverband Anfrage;Behörde/Zweckverband Anfrage
+#I9013#Info#Bewegungsfahrt;Bewegungsfahrt
+#I9014#Info#Einsatznachbearbeitung FW und RD;Einsatznachbearbeitung FW und RD
+#I9015#Info#Feuerwehr/THW Anfrage;Feuerwehr/THW Anfrage
+#I9016#Info#Fremdfahrzeuge;Fremdfahrzeuge
+#I9017#Info#Kreisverband/Hilfsorganisastioen Anfrage;Kreisverband/Hilfsorganisastioen Anfrage
+#I9018#Info#Besetzung der Kreiseinsatzzentrale;Besetzung der Kreiseinsatzzentrale
+#I9019#Info#Reklamation Rettungsdienst;Reklamation Rettungsdienst
+#I9020#Info#An-Abmeldung Nutzfeuer;An-Abmeldung Nutzfeuer
+#I9021#Info#An-Abmeldung Klinik/Stationen;An-Abmeldung Klinik/Stationen
+#I9022#Info#An-Abmeldung Patient;An-Abmeldung Patient
+#I9023#Info#Warnen der Bevölkerung;Warnen der Bevölkerung
+#I9024#Info#ILS Unterstützung;ILS Unterstützung
+#S0201#Sonstige#Eingleisen;Eingleisen
+#S0301#Sonstige#Hilfe/Sonstiges FW;Hilfe/Sonstiges FW
+#S0501#Sonstige#Motorradstreife;Motorradstreife
+#S0601#Sonstige#THW Bereitschaft;THW Bereitschaft
+#S0701#Sonstige#Tragehilfe für den Rettungsdienst;Tragehilfe für den Rettungsdienst
+#S0801#Sonstige#überörtlicher Einsatz;überörtlicher Einsatz
+#S1001#PSNV#Betroffene;Betroffene
+#S1002#PSNV#Einsatzkräfte;Einsatzkräfte
+#T1010#Bombe / Amok#Amoklage;Amoklage
+#T1110#klein#Einsatzstelle ausleuchten;Einsatzstelle ausleuchten klein
+#T1210#Bombe / Amok#Bombendrohung;Bombendrohung
+#T1310#Bombe / Amok#Bombenfund;Bombenfund
+#T1410#klein#Erkundung;Erkundung klein
+#T1510#RD#First Responder;First Responder
+#T1610#Einsturz / Umsturz#Gebäude eingestürzt;Gebäude eingestürzt
+#T1710#Tier#Rettung Großtier (z.B. Kuh, Pferd);Rettung Großtier (z.B. Kuh, Pferd)
+#T1810#Rettung#Hubschrauberlandung sichern;Hubschrauberlandung sichern
+#T1910#Rettung#Aufzug öffnen akut;Aufzug öffnen akut
+#T2011#Absturz / Höhe#Person droht zu springen;Person droht zu springen
+#T2012#Absturz / Höhe#Person absturzgefährdet;Person absturzgefährdet
+#T2013#Absturz / Höhe#Person in Höhe;Person in Höhe
+#T2014#Absturz / Höhe#Person aus Tiefe / Schacht;Person aus Tiefe / Schacht
+#T2015#Absturz / Höhe#schwergewichtiger Patient;schwergewichtiger Patient
+#T2016#Absturz / Höhe#Person auf Windrad / Kran;Person auf Windrad / Kran
+#T2017#Absturz / Höhe#Paraglider/Fallschirm/Drachenflieger abgestürzt;Paraglider/Fallschirm/Drachenflieger abgestürzt
+#T2110#VU#Person unter Straßenbahn;VU Person unter Straßenbahn
+#T2111#VU#Straßenbahn;VU Straßenbahn
+#T2210#Rettung#Person Stromunfall;Person Stromunfall
+#T2310#VU#Person unter U-Bahn;VU Person unter U-Bahn
+#T2311#Rettung#Person verschüttet / Tiefbauunfall;Person verschüttet / Tiefbauunfall
+#T2312#Rettung#Person in Silo;Person in Silo
+#T2410#Rettung#Wohnung öffnen akut;Wohnung öffnen akut
+#T2411#Rettung#Fahrzeug öffnen akut;Fahrzeug öffnen akut
+#T2510#VU#Person unter Zug;VU Person unter Zug
+#T2511#VU#Person unter S-Bahn;VU Person unter S-Bahn
+#T2512#VU#Person vom Zug erfasst;VU Person vom Zug erfasst
+#T2610#RD#Drehleiter;Drehleiter
+#T2710#klein#allgemein;allgemein klein
+#T2711#klein#Baum auf Straße;Baum auf Straße klein
+#T2712#klein#Baum auf Schiene;Baum auf Schiene klein
+#T2713#klein#Dach räumen;Dach räumen klein
+#T2714#klein#Fahrzeug öffnen;Fahrzeug öffnen klein
+#T2715#klein#Fahrzeug sichern;Fahrzeug sichern klein
+#T2716#klein#Wohnung öffnen;Wohnung öffnen klein
+#T2717#klein#Gebäude sichern;Gebäude sichern klein
+#T2718#klein#Gegenstand / Teil sichern;Gegenstand / Teil sichern klein
+#T2719#klein#Straße reinigen;Straße reinigen klein
+#T2720#klein#Straße überschwemmt;Straße überschwemmt klein
+#T2721#klein#Wasser im Keller;Wasser im Keller klein
+#T2722#klein#Wasser in Gebäude;Wasser in Gebäude klein
+#T2723#RD#Unterstützung;Unterstützung RD
+#T2724#Rettung#Personensuche;Personensuche
+#T2725#VU#mit Motorrad;VU mit Motorrad
+#T2726#VU#mit PKW;VU mit PKW
+#T2727#Tier#Insekten (Gefahr für Personen);Insekten (Gefahr für Personen)
+#T2728#Tier#Rettung Kleintier;Rettung Kleintier
+#T2729#Tier#Bergung Kleintier;Bergung Kleintier
+#T2730#Tier#Bergung Großtier (z.B. Kuh, Pferd);Bergung Großtier (z.B. Kuh, Pferd)
+#T2731#Rettung#Waldunfall ohne eingeklemmte Person;Waldunfall ohne eingeklemmte Person
+#T2732#klein#Verkehrslenkung;Verkehrslenkung klein
+#T2810#VU#mehrere PKW;VU mehrere PKW
+#T2811#VU#LKW / Bus (leer), ohne eingeklemmte Personen;VU LKW / Bus (leer), ohne eingeklemmte Personen
+#T2910#Rettung#Person eingeklemmt (nicht VU);Person eingeklemmt (nicht VU)
+#T2911#VU#1 oder 2 PKW, Person eingeklemmt;VU 1 oder 2 PKW, Person eingeklemmt
+#T2912#VU#Bus (besetzt);VU Bus (besetzt)
+#T2913#Einsturz / Umsturz#Gerüst umgestürzt;Gerüst umgestürzt
+#T2914#Einsturz / Umsturz#Stromleitungsmast umgestürzt;Stromleitungsmast umgestürzt
+#T2915#Einsturz / Umsturz#Kran umgestürzt;Kran umgestürzt
+#T2916#Rettung#Waldunfall mit eingeklemmter Person;Waldunfall mit eingeklemmter Person
+#T3010#VU#mehrere PKW, Personen eingeklemmt;VU mehrere PKW, Personen eingeklemmt
+#T3011#VU#LKW / Bus (leer), Person eingeklemmt;VU LKW / Bus (leer), Person eingeklemmt
+#T3110#VU#Massenkarambolage, Personen eingeklemmt;VU Massenkarambolage, Personen eingeklemmt
+#T3111#VU#Bus besetzt mit eingeklemmten Personen;VU Bus besetzt mit eingeklemmten Personen
+#T3112#VU#mehrere LKW mit eingeklemmten Personen;VU mehrere LKW mit eingeklemmten Personen
+#T3210#klein#Hilfeleistung Straßenbahn;Hilfeleistung Straßenbahn klein
+#T3211#klein#Hilfeleistung S-Bahn;Hilfeleistung S-Bahn klein
+#T3212#klein#Hilfeleistung U-Bahn;Hilfeleistung U-Bahn klein
+#T3310#Wasser#Bergung Sache / Leiche;Bergung Sache / Leiche
+#T3311#Wasser#Rettung Tier;Rettung Tier
+#T3313#Wasser#Tauchereinsatz ohne Rettung;Tauchereinsatz ohne Rettung
+#T3410#RD#Tragehilfe;Tragehilfe
+#T3510#Unwetter#Baum / Ast droht zu fallen;Baum / Ast droht zu fallen
+#T3511#Unwetter#Baum / Ast auf Fahrbahn;Baum / Ast auf Fahrbahn
+#T3512#Unwetter#Baum / Ast auf Schiene;Baum / Ast auf Schiene
+#T3513#Unwetter#Baum / Ast auf Gebäude;Baum / Ast auf Gebäude
+#T3514#Unwetter#Baum / Ast auf Stromleitung;Baum / Ast auf Stromleitung
+#T3515#Unwetter#Baum / Ast auf PKW / LKW;Baum / Ast auf PKW / LKW
+#T3516#Unwetter#Baum umgestürzt;Baum umgestürzt
+#T3517#Unwetter#Bauteil / Gegenstand droht zu fallen;Bauteil / Gegenstand droht zu fallen
+#T3518#Unwetter#Gebäude sichern;Gebäude sichern
+#T3519#Unwetter#Bauzaun sichern;Bauzaun sichern
+#T3520#Unwetter#Fahrbahn / Gehweg überschwemmt;Fahrbahn / Gehweg überschwemmt
+#T3521#Unwetter#Gebäude unter Wasser;Gebäude unter Wasser
+#T3522#Unwetter#Keller unter Wasser;Keller unter Wasser
+#T3523#Unwetter#Fahrzeug / sonstiger Gegenstand sichern;Fahrzeug / sonstiger Gegenstand sichern
+#T3524#Unwetter#Erkundung nicht zeitkritisch;Erkundung nicht zeitkritisch
+#T3525#Unwetter#sonstiger Schaden;sonstiger Schaden
+#T3610#Luft#Notlandung;Notlandung
+#T3611#Luft#Ballon;Ballon
+#T3612#Luft#Hubschrauber;Hubschrauber
+#T3613#Luft#Kleinflugzeug;Kleinflugzeug
+#T3710#Luft#Frachtflugzeug;Frachtflugzeug
+#T3711#Luft#Passagierflugzeug;Passagierflugzeug
+#T3712#Luft#Militärflugzeug;Militärflugzeug
+#T3810#Wasser#Kollision Passagierschiff;Kollision Passagierschiff
+#T3811#Wasser#Kollision Frachtschiff;Kollision Frachtschiff
+#T3812#Wasser#Kollision Boot / Yacht / Floß;Kollision Boot / Yacht / Floß
+#T3813#Wasser#Schiff-Leck Passagierschiff;Schiff-Leck Passagierschiff
+#T3814#Wasser#Schiff-Leck Frachtschiff;Schiff-Leck Frachtschiff
+#T3910#VU#Zug;VU Zug
