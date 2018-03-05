@@ -3,6 +3,12 @@ import ConfigParser
 import sys
 from datetime import datetime
 from shutil import copyfile
+import platform
+
+# Check if Windows (required!) is used
+if not platform.system() == 'Windows':
+	print "Wrong Operating System. Exiting."
+	sys.exit(0)
 
 cp = ConfigParser.SafeConfigParser()
 
